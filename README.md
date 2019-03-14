@@ -1,2 +1,2 @@
 # CircleCI Sample
-practice for CircleCI
+Practice for CircleCI
